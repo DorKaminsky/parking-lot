@@ -1,0 +1,5 @@
+com/sap/parking/main.class
+com/sap/parking/ParkingSpot.class
+com/sap/parking/ParkingLot.class
+com/sap/parking/ParkingSpot$Zone.class
+com/sap/parking/ParkingSpot$State.class
